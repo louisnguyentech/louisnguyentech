@@ -18,7 +18,7 @@
 📚 Work Experience
 
 🌱 Career Goals
-I am always eager to learn and improve my skills every day. My goal is to become a leading expert in software development, continuously exploring and applying the latest technologies.
+  I am always eager to learn and improve my skills every day. My goal is to become a leading expert in software development, continuously exploring and applying the latest technologies.
 
 📫 Contact
 Email: tringuyen.ntnt@gmail.com
