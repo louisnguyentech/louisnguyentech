@@ -6,12 +6,12 @@
   Frameworks/Libraries: React.js, Next.js, Vue.js
   UI/UX: Material-UI, Tailwind CSS, Bootstrap, SASS, Antd, Primereact...
   Tools: Webpack, Babel, npm/yarn, Git
-Back-End:
+- Back-End:
   Languages: Node.js
   Frameworks: Express.js, NestJS
   Databases: MongoDB, PostgreSQL, MySQL
   API: RESTful, GraphQL
-DevOps:
+- DevOps:
   Containers: Docker
   CI/CD: GitHub Actions, Jenkins
   Cloud Services: AWS (EC2, S3), Heroku, Firebase, Cloud
