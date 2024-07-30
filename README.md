@@ -1,5 +1,5 @@
 💻 About Me - NGUYEN TRAN NHAT TRI
-  Hello! I'm Tri, a passionate Fullstack Developer with a strong focus on web application development. With in-depth expertise in JavaScript, I have built numerous projects from front-end to back-end, providing excellent user experiences and tangible business value.
+- Hello! I'm Tri, a passionate Fullstack Developer with a strong focus on web application development. With in-depth expertise in JavaScript, I have built numerous projects from front-end to back-end, providing excellent user experiences and tangible business value.
 🛠️ Technical Skills
 - Front-End:
   Languages: HTML, CSS, JavaScript (ES6+)
@@ -18,8 +18,8 @@
 📚 Work Experience
 
 🌱 Career Goals
-  I am always eager to learn and improve my skills every day. My goal is to become a leading expert in software development, continuously exploring and applying the latest technologies.
+- I am always eager to learn and improve my skills every day. My goal is to become a leading expert in software development, continuously exploring and applying the latest technologies.
 
 📫 Contact
-Email: tringuyen.ntnt@gmail.com
+- Email: tringuyen.ntnt@gmail.com
 
